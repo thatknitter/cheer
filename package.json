@@ -1,0 +1,23 @@
+{
+  "name": "cheer",
+  "version": "1.0.0",
+  "description": "ha",
+  "main": "index.html",
+  "scripts": {
+    "test": "mocha spec --recursive --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/thatknitter/cheer.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thatknitter/cheer/issues"
+  },
+  "homepage": "https://github.com/thatknitter/cheer",
+  "devDependencies": {
+    "chai": "^1.9.2",
+    "mocha": "^2.0.1"
+  }
+}
